@@ -16,13 +16,16 @@ vite.config.js: Configuration file for Vite, the build tool.
 
 README.md: Provides an overview and setup instructions for the project.
 
+
 🚀 Running the Project Locally
 
 To set up and run the Weather App on your local machine:
 
+
 Clone the repository:
 
 git clone https://github.com/HiAbhitesh/React-Project.git
+
 
 
 Navigate into the project directory:
@@ -41,6 +44,7 @@ npm run dev
 
 
 This will start the application, and you can view it in your browser at http://localhost:3000.
+
 
 🛠️ Technologies Used
 
